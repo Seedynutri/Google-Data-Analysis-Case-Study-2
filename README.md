@@ -1,9 +1,13 @@
-**Project Summary**: Google Data Analytics Certificate Project
+<a href="https://github.com/Seedynutri/Google-Data-Analysis-Case-Study-2/blob/main/graceA_google_data_analytic_project.docx.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Project%20PDF%20Report-%23007bff?style=for-the-badge&logo=github&logoColor=white" alt="Download Google Data Analytics Case Study PDF">
+</a>
+
+**Google Data Analytics Certificate Project**
 
 **Project Title:** Data Analytics for Healthcare: Optimising Outcomes through Insightful Analysis
 
 **Description:**
-This project was part of the Google Data Analytics Certificate and focused on applying data analytics principles to healthcare data. The objective was to leverage statistical analysis and data visualization tools to optimize healthcare outcomes, such as improving patient care, optimizing resource allocation, and enhancing decision-making processes. Through the analysis of real-world healthcare datasets, the project aimed to demonstrate how data-driven insights can lead to actionable results in the medical field.
+This project was part of the Google Data Analytics Certificate and focused on applying data analytics principles to healthcare data. The objective was to leverage statistical analysis and data visualisation tools to optimise healthcare outcomes, such as improving patient care, optimizing resource allocation, and enhancing decision-making processes. Through the analysis of real-world healthcare datasets, the project aimed to demonstrate how data-driven insights can lead to actionable results in the medical field.
 
 **Objectives:**
 
@@ -41,6 +45,10 @@ Key Steps in the Project:
 - **Problem Solving and Critical Thinking:** Developed the ability to approach complex healthcare challenges with data-driven solutions.
 
 **Why This Project Matters**
-Healthcare is an industry that can benefit significantly from data analytics, and this project demonstrates how insights derived from data can improve patient outcomes and operational efficiency. By using a variety of data analysis techniques, this project showcases how data can be applied in a meaningful way to optimize healthcare systems, ultimately contributing to better decision-making, resource management, and patient care. Developed the ability to approach complex healthcare challenges with data-driven solutions.
+Healthcare is an industry that can benefit significantly from data analytics, and this project demonstrates how insights derived from data can improve patient outcomes and operational efficiency. By using a variety of data analysis techniques, this project showcases how data can be applied in a meaningful way to optimise healthcare systems, ultimately contributing to better decision-making, resource management, and patient care. Developed the ability to approach complex healthcare challenges with data-driven solutions.
 
 Check the Project here:
+
+<a href="https://github.com/Seedynutri/Google-Data-Analysis-Case-Study-2/blob/main/graceA_google_data_analytic_project.docx.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Project%20PDF%20Report-%23007bff?style=for-the-badge&logo=github&logoColor=white" alt="Download Google Data Analytics Case Study PDF">
+</a>
